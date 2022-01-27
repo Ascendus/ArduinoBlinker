@@ -20,7 +20,8 @@
         "Arduino",
         "johhny-five",
         "LED",
-        "Blink"
+        "Blink",
+        "NodeJS"
     ],
     "author": {
         "email": "ascendus.dev@gmail.com",
