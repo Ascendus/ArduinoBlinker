@@ -28,8 +28,12 @@ You should see something similiar to the following in the terminal:
 ``` 
 as well as the LED blinking.
 
+## Contributing
+If you find any issues, security vulnerabilities or a have featureq requests, you can open a new [issue](https://github.com/Ascendus/ArduinoBlinker/issues/new/choose).
+If you'd like to contribute, create a [fork](https://github.com/Ascendus/ArduinoBlinker/fork), apply your changes and then open a [pull request](https://github.com/Ascendus/ArduinoBlinker/compare).
+
 ## Help
-Need help or want to contribute? Feel free to contact me on Discord (Ascendus#6316) or via email (ascendus.dev@gmail.com).
+Need help? Feel free to contact me on Discord (Ascendus#6316) or via email (ascendus.dev@gmail.com).
 
 ## License
 This project is licensed under the [CC0 1.0 Universal License.](LICENSE)
